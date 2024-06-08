@@ -6,7 +6,7 @@ Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering:
+Define Software Engineering: Software engineering is the systematic application of engineering approaches to the development of software. It involves the use of principles and practices from computer science and engineering to design, develop, test, and maintain software systems
 
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
